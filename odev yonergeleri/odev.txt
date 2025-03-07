@@ -1,0 +1,6 @@
+Bu ödevde, tarif sayfasını oluşturmanız ve tasarıma olabildiğince yakın hale getirmeniz gerekiyor. 
+Ekte, önceden hazırlanmış bir index.html sayfası bulunmaktadır. index.html'i indiriniz. Proje tasarımına göre kodlayınız.
+Projenizi, ekte bulunan mobil ve desktop(masaustu) tasarımlara göre oluşturmalısınız. Bu yüzden, font-size, padding ve margin gibi stiller için en iyi tahminlerinizi kullanmanız gerekecek.
+Gerekli tüm resimler  assets klasöründe bulunmaktadır. Görseller, doğru ekran boyutuna göre optimize edilmiştir. Ayrıca, proje için gerekli yazı tiplerinin değişken ve statik dosyaları da /assets klasöründedir.  Google Fonts'a bağlantı vererek ya da yerel font dosyalarını barındırarak yazı tiplerini kullanabilirsiniz. 
+Projeniz için gerekli olan renk kodları, yazı tipi gibi bilgileri stil-rehberi dosyasında bulabilirsiniz.
+Ödevinizi github'a yükleyip, ekteki forma projenizin github adresini ekleyiniz.
